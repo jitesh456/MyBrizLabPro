@@ -1,0 +1,6 @@
+str=raw_input("enter a no")
+no1=(str)
+no3=(str+str)
+no3=(str+str+str)
+no4=(str+str+str+str)
+print(no1,no2,no3,no4)
